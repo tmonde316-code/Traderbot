@@ -1,0 +1,5 @@
+MetaTrader5==5.0.37
+pandas==2.0.3
+numpy==1.24.4
+pytz==2024.1
+streamlit==1.35.0
